@@ -1,6 +1,6 @@
 Depends on [NodeJS](https://nodejs.org/en/download)
 
-Initiation installation:
+Initiation installation (start in this directory):
 
 ```sh
 npm i
@@ -18,4 +18,4 @@ To run script:
 ts-node chunk.js [filename]
 ```
 
-NOTE: The filename may or may not support spaces.
+NOTE: The filename might not support spaces.
